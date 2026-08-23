@@ -1,5 +1,4 @@
-**NLP con Disaster Tweets** 🛰️🔥
-Questo repository contiene un progetto di Natural Language Processing (NLP) focalizzato sulla classificazione di messaggi testuali provenienti da Twitter. L'obiettivo è determinare se un tweet annuncia un disastro reale (terremoti, incendi, alluvioni, ecc.) o se si tratta di un uso metaforico o non rilevante della parola.
+Questa repository contiene un progetto di Natural Language Processing (NLP) focalizzato sulla classificazione di messaggi testuali provenienti da Twitter. L'obiettivo è determinare se un tweet annuncia un disastro reale (terremoti, incendi, alluvioni, ecc.) o se si tratta di un uso metaforico o non rilevante della parola.
 
 Il progetto implementa una pipeline, dalla fase di esplorazione dei dati fino alla sottomissione dei risultati.
 
